@@ -1,0 +1,9 @@
+/lib/
+/classes/
+.lein-deps-sum
+/.lein-plugins/
+.gitignore
+/dist/
+*~
+*#
+.DS_Store

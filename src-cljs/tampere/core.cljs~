@@ -1,0 +1,4 @@
+(ns tampere.core)
+
+(defn greet [person]
+  (.log js/console (str "Hello " person "!")))
