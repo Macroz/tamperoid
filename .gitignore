@@ -4,6 +4,8 @@
 /.lein-plugins/
 .gitignore
 /dist/
+/target/
+.lein*
 *~
 *#
 .DS_Store
