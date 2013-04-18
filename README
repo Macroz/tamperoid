@@ -1,13 +1,14 @@
-# tampere
+# tamperoid
 
-FIXME: write description
+Asteroids clone for the browser written in ClojureScript
 
 ## Usage
 
-FIXME: write
+get heroku
+foreman start
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Markku Rontu
 
 Distributed under the Eclipse Public License, the same as Clojure.
