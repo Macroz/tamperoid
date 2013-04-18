@@ -4,6 +4,10 @@ Asteroids clone for the browser written in ClojureScript
 
 ## Usage
 
+http://tamperoid.herokuapp.com
+
+OR
+
 get heroku
 foreman start
 
